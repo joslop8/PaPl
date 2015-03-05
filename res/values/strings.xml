@@ -4,5 +4,11 @@
     <string name="app_name">PadelPlay</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    
+<!-- Registro -->
+	<string name="Usuario">Usuario</string>
+	<string name="Contrasenia">Contraseña</string>
+	<string name="Email">E-mail</string>
+<!-- Registro -->
 
 </resources>
