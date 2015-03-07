@@ -19,6 +19,8 @@
         android:textColor="@android:color/tertiary_text_dark"
         android:textSize="24sp"
         android:textStyle="bold"
+        android:marqueeRepeatLimit="200"
+        
         android:inputType="text" />
 
 </LinearLayout>
